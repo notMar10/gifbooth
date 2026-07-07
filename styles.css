@@ -339,9 +339,13 @@ header{
 }
 
 .start-panel{
-  display:flex; flex-direction:column; gap:14px;
-  align-items:flex-start;
+  display:flex;
+  flex-direction:column;
+  gap:14px;
+  align-items:center;
+  text-align:center;
 }
+
 .start-btn{
   font-family: Arial, sans-serif; font-weight:800; text-transform:uppercase;
   letter-spacing:0.04em;
