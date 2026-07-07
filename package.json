@@ -1,0 +1,9 @@
+{
+  "name": "gifbooth",
+  "version": "1.0.0",
+  "private": true,
+  "description": "3-shot GIF photobooth — static, client-side only",
+  "scripts": {
+    "dev": "npx serve ."
+  }
+}
